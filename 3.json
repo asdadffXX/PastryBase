@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "titulo": "Prueba API",
+  "foto": "https://i.imgur.com/Nb7SK1S.jpeg",
+  "dificultad": "Dificil",
+  "porciones": "5",
+  "tiempo_elaboracion": "4",
+  "categoria": "Hola",
+  "introduccion": "Introduccion de prueba",
+  "ingredientes": ["Ingrediente1", "Ingrediente2", "Ingrediente3"],
+  "pasos": ["Paso1", "Paso2", "Paso3"]
+}
