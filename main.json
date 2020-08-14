@@ -1,3 +1,4 @@
 {
-  "categorias": ["Muffins", "Alfajores", "Celiacos", "Tortas", "Mermeladas"]
+  "categorias": ["Muffins", "Alfajores", "Celiacos", "Tortas", "Mermeladas"],
+  "ultimas": [0, 1, 2, 3]
 }
