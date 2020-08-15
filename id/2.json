@@ -5,7 +5,7 @@
   "dificultad": "Dificil",
   "porciones": "5",
   "tiempo_elaboracion": "4",
-  "categoria": "Hola",
+  "categoria": ["Muffins", "Alfajores"],
   "introduccion": "Introduccion de prueba",
   "ingredientes": ["Ingrediente1", "Ingrediente2", "Ingrediente3"],
   "pasos": ["Paso1", "Paso2", "Paso3"]
