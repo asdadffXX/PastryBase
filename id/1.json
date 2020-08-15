@@ -1,12 +1,22 @@
 {
-  "id": 1,
-  "titulo": "Prueba API",
+  "id": 0,
+  "titulo": "Muffins de platano y maicena",
   "foto": "https://i.imgur.com/Nb7SK1S.jpeg",
-  "dificultad": "Dificil",
-  "porciones": "5",
-  "tiempo_elaboracion": "4",
+  "dificultad": "media",
+  "porciones": "12",
+  "tiempo_elaboracion": "30 minutos",
   "categoria": ["Muffins", "Alfajores"],
-  "introduccion": "Introduccion de prueba",
-  "ingredientes": ["Ingrediente1", "Ingrediente2", "Ingrediente3"],
-  "pasos": ["Paso1", "Paso2", "Paso3"]
+  "introduccion": "En esta oportunidad aprenderemos a realizar muffins de platano y maicena, con esta sencilla receta en solo 30 minutos obtendremos un resultado espectacular con el que recibir a todos los comenzales.",
+  "ingredientes": [
+    "2kg de harina",
+    "700gr de manteca",
+    "1L de agua",
+    "200gr de azucar",
+    "12 pizcas de amor"
+  ],
+  "pasos": [
+    "Vertemos a harina y la manteca en un bowl",
+    "Revolvemos por 40 minutos y luego metemos la mezcla al horno en 200 grados por 59 minutos",
+    "Servimos en moldes y ya tenemos los maffins de platanos listos para servir"
+  ]
 }
